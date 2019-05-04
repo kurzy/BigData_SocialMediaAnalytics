@@ -1,4 +1,4 @@
-# BigData_SocialMediaAnalytics
+# Big Data and Social Media Analytics
 This project collected, cleaned, and analysed social media data pertaining to the *Amazon Alexa/Echo* products, the [@Amazon](https://twitter.com/amazon?lang=en) Twitter page and the [Amazon](https://www.facebook.com/Amazon/) Facebook page during the summer of 2017.  
 
 ## Getting Started
